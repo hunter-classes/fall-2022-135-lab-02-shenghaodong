@@ -1,3 +1,13 @@
+/*
+Author: Shenghao Dong
+Course: CSCI-135
+Instructor: Mike Zamansky
+Assignment: Lab2C
+
+Creates a array of 10 then sets all values to 1. Allows the user to edit array until out of range.
+When out of range the loop stops.
+*/
+
 #include <iostream>
 
 int main(){

@@ -1,11 +1,10 @@
 /*
 Author: Shenghao Dong
-Course: CSCI-133
+Course: CSCI-135
 Instructor: Mike Zamansky
-Assignment: Lab2
+Assignment: Lab2B
 
-Here, briefly, at least in one or a few sentences
-describe what the program does.
+Prints the interval from L to U but does not include U.
 */
 
 #include <iostream>

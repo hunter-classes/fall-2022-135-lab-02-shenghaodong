@@ -1,6 +1,6 @@
 /*
 Author: your name
-Course: CSCI-133
+Course: CSCI-135
 Instructor: Mike Zamansky
 Assignment: LAB2A
 
