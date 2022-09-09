@@ -1,11 +1,10 @@
 /*
 Author: Shenghao Dong
-Course: CSCI-133
+Course: CSCI-135
 Instructor: Mike Zamansky
 Assignment: Lab2
 
-Here, briefly, at least in one or a few sentences
-describe what the program does.
+Gets the user input for L and U then calls funcs.cpp.
 */
 
 #include <iostream>
