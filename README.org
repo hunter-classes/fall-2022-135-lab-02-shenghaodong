@@ -6,7 +6,7 @@
 
 * GitHub username: shenghaodong
 
-* Notes: None
+* Notes: fixed and deleted input from main
 
 
 

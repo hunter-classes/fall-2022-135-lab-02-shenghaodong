@@ -11,12 +11,8 @@ Gets the user input for L and U then calls funcs.cpp.
 #include "funcs.h"
 
 int main(){
-    int L;
-    int U;
-    std::cout << "Please enter L: ";
-    std::cin >> L;
-    std::cout << "Please enter U: ";
-    std::cin >> U;
+    int L = -5;
+    int U = 10;
     print_interval(L, U);
     std::cout << "\n";
     return 0;
